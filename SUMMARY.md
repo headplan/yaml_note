@@ -1,5 +1,5 @@
 # Summary
 
-* [关于Ymal](README.md)
-* [First Chapter](chapter1.md)
+* [关于Yaml](README.md)
+* [YAML](chapter1.md)
 
