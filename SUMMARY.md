@@ -1,5 +1,6 @@
 # Summary
 
 * [关于YAML](README.md)
-* [YAML](chapter1.md)
+* [简介](chapter1.md)
+* 语法规范
 
